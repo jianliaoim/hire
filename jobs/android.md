@@ -2,18 +2,18 @@
 
 ## 在「简聊」，你可以
 
-1. 独挡一面，负责android客户端的开发和优化
+1. 独挡一面，负责 Android 客户端的开发和优化
 2. 与各类工程师一起研讨技术、制定优秀的解决方案，开发核心模块
 3. 充分发挥你对（移动）互联网的理解和热情，对咱们的产品指点江山
 4. 了解各种新鲜技术，选择最佳实现，与我们的产品有效结合，从中获取喜悦和成就感
 
 ## 需要你
 
-1. 有扎实的编程基础，熟练掌握Java开发语言 和android SDK
-2. 熟练掌握android系统特性，熟悉android系统各种manager和服务的功能，对移动终端的整体系统有所了解
-3. 精通Socket、多线程编程
-4. 对android framework，android ui设计和实现，sqlite有深入研究
-5. 熟练使用多线程 和 Intellij IDEA / eclipse 开发工具
+1. 有扎实的编程基础，熟练掌握 Java 开发语言和 Android SDK
+2. 熟练掌握 Android 系统特性，熟悉 Android 系统各种 manager 和服务的功能，对移动终端的整体系统有所了解
+3. 精通 Socket、多线程编程
+4. 对 Android framework，Android ui 设计和实现
+5. 熟练使用 Android Studio / IntelliJ IDEA 等开发工具
 6. 良好的设计、编程能力
 7. 思路清晰，思维敏捷，责任心强，良好的沟通能力和团队协作精神
 
